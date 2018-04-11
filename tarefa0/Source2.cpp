@@ -7,4 +7,4 @@ int main() {
 	getline(cin, nome);
 	cout << "Ola " << nome << "\n";
 	return 0;
-}aaaaaaaaaaaaaaaaaaaaaaa
+}
