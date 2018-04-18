@@ -8,3 +8,5 @@ int main() {
 	cout << "Ola " << nome << "\n";
 	return 0;
 }
+
+//alterraçao
